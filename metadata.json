@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Lens",
+  "description": "Real-time Multiplayer Chess game with live positional evaluation and tactical commentary from a Grandmaster AI Lens, powered by Gemini and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
